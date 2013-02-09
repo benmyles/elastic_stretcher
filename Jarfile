@@ -1,0 +1,1 @@
+jar 'org.elasticsearch:elasticsearch', '0.20.4'

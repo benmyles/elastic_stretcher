@@ -1,0 +1,7 @@
+org.elasticsearch:elasticsearch:jar:0.20.4
+org.apache.lucene:lucene-core:jar:3.6.2
+org.apache.lucene:lucene-analyzers:jar:3.6.2
+org.apache.lucene:lucene-queries:jar:3.6.2
+jakarta-regexp:jakarta-regexp:jar:1.4
+org.apache.lucene:lucene-memory:jar:3.6.2
+org.apache.lucene:lucene-highlighter:jar:3.6.2
